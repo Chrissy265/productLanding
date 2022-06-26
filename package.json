@@ -1,0 +1,15 @@
+{
+  "name": "dogcollar",
+  "version": "1.0.0",
+  "description": "list of packages for this product landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "json"
+  },
+  "author": "Christina Beckford",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  },
+  "devDependencies": {}
+}
